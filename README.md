@@ -26,20 +26,17 @@ I am passionate about building **scalable data systems, web applications, and au
 
 ## 🚀 Featured Projects  
 
-### **1️⃣ ETL Pipeline for Data Processing**  
+### [1️⃣ ETL Pipeline for Data Processing](https://github.com/QueenKamanga/Data-Cleaning-and-Preparation.git)  
 🔹 **Tech:** Python, PostgreSQL, Apache Airflow  
 🔹 **Description:** Built an ETL pipeline that automates data extraction, transformation, and loading.  
-🔹 **Repo:** [(https://github.com/QueenKamanga/Data-Cleaning-and-Preparation.git)](#)  
 
-### **2️⃣ Data Visualization**  
-🔹 **Tech:** Python, Power BI 
+### [2️⃣ Data Visualization](https://github.com/QueenKamanga/Data-Visualization.git)  
+🔹 **Tech:** Python, Power BI  
 🔹 **Description:** Presenting data using different graphs to uncover insights, patterns, and trends.  
-🔹 **Repo:** [https://github.com/QueenKamanga/Data-Visualization.git](#)  
 
-### **3️⃣ Data Cleaning & Analysis Project**  
+### [3️⃣ Data Cleaning & Analysis Project](https://github.com/QueenKamanga/ELT-Process.git)  
 🔹 **Tech:** Python, Pandas, NumPy, SQL  
 🔹 **Description:** Analyzed and cleaned large datasets to derive key insights for decision-making.  
-🔹 **Repo:** [[GitHub Link](https://github.com/QueenKamanga/ELT-Process.git)](#)  
 
 ---
 
@@ -51,9 +48,10 @@ I am passionate about building **scalable data systems, web applications, and au
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://www.linkedin.com/in/queen-nomalanga-kamanga-83130b131/)]
-[![Portfolio](https://queenkamanga.github.io/QueenFolio.github.io/)] 
-[![GitHub](https://github.com/QueenKamanga)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/queen-nomalanga-kamanga-83130b131/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=web)](https://queenkamanga.github.io/QueenFolio.github.io/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/QueenKamanga)  
+
 
 ---
 
